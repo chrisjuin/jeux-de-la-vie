@@ -1,0 +1,23 @@
+{
+  "name": "jeux-de-la-vie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisjuin/jeux-de-la-vie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisjuin/jeux-de-la-vie/issues"
+  },
+  "homepage": "https://github.com/chrisjuin/jeux-de-la-vie#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
